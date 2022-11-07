@@ -1,5 +1,5 @@
 Hello. It's my ToDo App.
 
-Here I use TypeScript, SCSS and JS.
+Let's see my code.
 
 Try to make your ToDo list with my project).
